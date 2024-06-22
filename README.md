@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SiegedTrooper, also known as Jonathan.
 - 👀 I’m interested in game development and software security.
-- 🌱 I’m currently enrolled to UTSA'c computer science.
-- 💞️ I’m looking to collaborate on group projects in Java.
+- 🌱 I’m have recently graduated from UTSA from their Computer Science program.
 - 📫 To reach me, shoot me a DM to my discord @fallenaether.
 
 <!---
